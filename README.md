@@ -1,0 +1,1 @@
+This is a game where you make decisions that decide your survival! Each choice will have a randomised chance of survival, so just because you die once, doesn't mean you shouldn't try the same thing again. Good luck!
